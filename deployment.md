@@ -19,6 +19,8 @@
   >  It's recommeded you use a Naming Convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
    *(e.g. CONTOSO SOUTHAMPTON)*
 
+Find out more about the Network topology requirements [here](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
+
 ### Add-ons:
 If you choose to extend your Emergency Calling notifications beyond just email, you may also need:
 * An Azure Subscription
