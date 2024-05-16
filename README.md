@@ -27,7 +27,8 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 *	Teams Communication Administrator or Teams Administrator role.
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
-   > [!NOTE]
+
+> [!NOTE]
   >  It's recommeded you use a Naming Convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
    *(e.g. CONTOSO SOUTHAMPTON)* 
 
