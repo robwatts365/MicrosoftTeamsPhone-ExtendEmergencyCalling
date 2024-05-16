@@ -11,7 +11,13 @@
   * Microsoft Exchange
   * SharePoint
 *	A SharePoint list (covered in the Deployment Guide 👇)
-*	Teams Communication Administrator or Teams Administrator role. 
+*	Teams Communication Administrator or Teams Administrator role.
+* Emergency Calling Policy
+* Network topology configured in Microsoft Teams
+  
+> [!NOTE]
+  >  It's recommeded you use a Naming Convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
+   *(e.g. CONTOSO SOUTHAMPTON)*
 
 ### Add-ons:
 If you choose to extend your Emergency Calling notifications beyond just email, you may also need:
