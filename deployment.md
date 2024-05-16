@@ -4,6 +4,26 @@
 | --- | --- | --- | --- |
 
 ## 1. Pre-requisites
+### Core Solution:
+* A **Service Account** with the an appropriate license for:
+  * Power Automate
+  * Microsoft Teams
+  * Microsoft Exchange
+  * SharePoint
+*	A SharePoint list (covered in the Deployment Guide 👇)
+*	Teams Communication Administrator or Teams Administrator role. 
+
+### Add-ons:
+If you choose to extend your Emergency Calling notifications beyond just email, you may also need:
+* An Azure Subscription
+* Azure Communication Services
+* 3rd Party Licenses
+  [Check the list of connectors available for Power Automate](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors) 
+
+ > [!NOTE]
+  >  If you choose to use Power Automate premium connectors, you'll need to license these too or use a      Pay-as-you-go Power Platform plan. 
+  [More information about PAYG.](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-overview) 
+
 
 ## 2. Configuration
 
