@@ -10,6 +10,7 @@ This project was created to help Microsoft customers to  deliver emergency notif
 
 ## Supporting Documentation
 * Manage emergency calling policies in Microsoft Teams -  [link](https://learn.microsoft.com/en-us/MicrosoftTeams/manage-emergency-calling-policies)
+* Network topology requirements - [link](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
 ## Support
 If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/robwatts365/ExtendEmergencyCalling/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
