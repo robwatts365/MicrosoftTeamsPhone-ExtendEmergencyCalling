@@ -8,6 +8,9 @@ Emergency call notifications in Teams are a feature that allows administrators a
 
 This project was created to help Microsoft customers to  deliver emergency notifications through email, SMS and more. With the only limitation being Power Automate connectors. 
 
+The core solution extends emergency notifications to email only, but you can tweek the Power Automate flow to utilise any Power Automate connector. [Check the list of connectors available for Power Automate](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors) 
+
+
 ## Supporting Documentation
 * Manage emergency calling policies in Microsoft Teams -  [link](https://learn.microsoft.com/en-us/MicrosoftTeams/manage-emergency-calling-policies)
 * Network topology requirements - [link](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
@@ -55,4 +58,4 @@ If you choose to extend your Emergency Calling notifications beyond just email, 
 | :--- | :--- |
 | Author | Rob Watts ([@robwatts365](https://github.com/robwatts365)) |
 | **Version** | 1.0 |
-| **Date** | 22/04/2024 |
+| **Date** | 17/06/2024 |

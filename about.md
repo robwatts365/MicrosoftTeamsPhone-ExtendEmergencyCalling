@@ -21,6 +21,7 @@ This project was created to help Microsoft customers to  deliver emergency notif
 
 ## How it works
 
+The core solution extends emergency notifications to email only, but you can tweek the Power Automate flow to utilise any Power Automate connector. [Check the list of connectors available for Power Automate](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors) 
 
 ## Page info
 
@@ -28,7 +29,7 @@ This project was created to help Microsoft customers to  deliver emergency notif
 | :--- | :--- |
 | Author | Rob Watts ([@robwatts365](https://github.com/robwatts365)) |
 | **Version** | 1.0 |
-| **Date** | 22/04/2024 |
+| **Date** | 17/06/2024 |
 
 
 
