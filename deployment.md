@@ -45,26 +45,26 @@ The first thing you'll need to decide is where to host the SharePoint list holdi
 For the purpose of this guide, I have created a new Team in Microsoft Teams called Emergency Notifications, and I will use this SharePoint site to host my SharePoint list.  
 
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
-2) Click the "+ New" button.  
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e5992819-a9a5-4944-9fe8-f7d453cf5376" width="200" />
-3) Select "Blank List".  
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/009d7604-b870-4f02-9a45-a3be4b7723b7" width="200" />
-4) Give your list an appropriate name (I'm using SiteList)
-5) Once created, click the gear in the top right hand corner, and select List settings.
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/7cedcfdc-5524-42b9-bc25-86579ca7d320" width="200" />
-6) Under Columns, select the "Title" column.
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/0667cb8c-d978-4067-91c7-cc38e73bacc4" width="200" />
-7) Rename the column's name to "SiteRef".
-8) Toggle "Require that this column contains information" to Yes. 
-9) Toggle "	Enforce unique values" to Yes.
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/ac1cfbec-8cbc-42b2-a2f1-cb1ac0c0aab2" width="200" />
-10) Press OK in the bottom right corner of the window. 
-11) Click "Create column".
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e4518790-74ff-44a2-a11b-b3b773b9819e" width="200" />
-12) Name the column "Email".
-13) Toggle "Require that this column contains information" to Yes.
-<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/a40e6ad8-b696-4c4e-94fe-7761b58832dc" width="200" />
-14) Press OK in the bottom right corner of the window. 
+2) Click the "+ New" button.
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e5992819-a9a5-4944-9fe8-f7d453cf5376" width="200" />
+4) Select "Blank List".
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/009d7604-b870-4f02-9a45-a3be4b7723b7" width="200" />
+6) Give your list an appropriate name (I'm using SiteList)
+7) Once created, click the gear in the top right hand corner, and select List settings.
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/7cedcfdc-5524-42b9-bc25-86579ca7d320" width="200" />
+9) Under Columns, select the "Title" column.
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/0667cb8c-d978-4067-91c7-cc38e73bacc4" width="200" />
+11) Rename the column's name to "SiteRef".
+12) Toggle "Require that this column contains information" to Yes. 
+13) Toggle "	Enforce unique values" to Yes.
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/ac1cfbec-8cbc-42b2-a2f1-cb1ac0c0aab2" width="200" />
+15) Press OK in the bottom right corner of the window. 
+16) Click "Create column".
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e4518790-74ff-44a2-a11b-b3b773b9819e" width="200" />
+18) Name the column "Email".
+19) Toggle "Require that this column contains information" to Yes.
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/a40e6ad8-b696-4c4e-94fe-7761b58832dc" width="200" />
+21) Press OK in the bottom right corner of the window. 
     
 
 
