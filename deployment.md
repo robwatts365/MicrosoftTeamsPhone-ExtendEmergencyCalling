@@ -86,9 +86,9 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 12) Verify and sign in to the connectors.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/d3e8944d-9644-401c-9423-a2a581b11666" width="200" />
 14) Click "Next"
-15) For 'SPOSite', select the SharePoint site where your list resides. 
-16) For 'SPOList', select your list 
-17) For Site Prefix, enter the Prefix as detailed in the pre-requisites.  
+15) For **'SPOSite'**, select the SharePoint site where your list resides. 
+16) For **'SPOList'**, select your list 
+17) For **Site Prefix**, enter the Prefix as detailed in the pre-requisites.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/3122a46c-ba75-499e-9144-cddbd596cc5c" width="200" />
 19) Click "Import".
 
