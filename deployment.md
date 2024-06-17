@@ -9,15 +9,18 @@
   * Power Automate
   * Microsoft Teams
   * Microsoft Exchange
-  * SharePoint
-*	A SharePoint list (covered in the Deployment Guide 👇)
+  * SharePoint Online
+  
+*	A SharePoint list (covered further down 👇)
+* A Power Platform environment with Dataverse enabled
 *	Teams Communication Administrator or Teams Administrator role.
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
   
 > [!NOTE]
-  >  It's recommeded you use a Naming Convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
-   *(e.g. CONTOSO SOUTHAMPTON)*
+  >  You should use a naming convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
+  [PREFIX] [LOCATION IDENTIFIER] 
+  *(e.g. **CONTOSO** SOUTHAMPTON)* 
 
 Find out more about the Network topology requirements [here](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
@@ -34,6 +37,30 @@ If you choose to extend your Emergency Calling notifications beyond just email, 
 
 
 ## 2. Configuration
+
+### Create SharePoint List
+
+The first thing you'll need to decide is where to host the SharePoint list holding the data for this solution. 
+
+For the purpose of this guide, I have created a new Team in Microsoft Teams called Emergency Notifications, and I will use this SharePoint site to host my SharePoint list.  
+
+1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
+2) Click the "+ New" button. 
+3) Select "Blank List".
+4) Give your list an appropriate name (I'm using SiteList)
+5) Once created, click the gear in the top right hand corner, and select List settings.
+6) Under Columns, select the "Title" column.
+7) Rename the column's name to "SiteRef".
+8) Toggle "Require that this column contains information" to Yes. 
+9) Toggle "	Enforce unique values" to Yes.
+10) Press OK in the bottom right corner of the window. 
+11) Click "Create column".
+12) Name the column "Email".
+13) Toggle "Require that this column contains information" to Yes. 
+14) Press OK in the bottom right corner of the window. 
+    
+
+
 
 ## Page info
 
