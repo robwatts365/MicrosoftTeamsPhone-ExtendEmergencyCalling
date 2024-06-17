@@ -45,7 +45,7 @@ The first thing you'll need to decide is where to host the SharePoint list holdi
 For the purpose of this guide, I have created a new Team in Microsoft Teams called Emergency Notifications, and I will use this SharePoint site to host my SharePoint list.  
 
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
-2) Click the "+ New" button.
+2) Click the "+ New" button.  
     ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e5992819-a9a5-4944-9fe8-f7d453cf5376)
 4) Select "Blank List".
 5) Give your list an appropriate name (I'm using SiteList)
