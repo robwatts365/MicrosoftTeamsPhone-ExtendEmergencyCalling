@@ -71,8 +71,8 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 1) Download the Solution export.
       | Version | Notes |
    | :--- | :--- |
-   | [Managed Solution](ExtendEmergencyCallingNotifications_managed.zip) | If you're only looking to use the Core Solution |
-   | [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip) | If you're looking to tweek/extend the solution further |  
+   | [Managed Solution](ExtendEmergencyCallingNotifications_managed.zip) | If you're only looking to use the Core Solution. |
+   | [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip) | If you're looking to tweek/extend the solution further. |  
 2) Nagivate to [Power Apps](https://make.powerapps.com/). Remember to sign in with the **Service Account** you created above. 
 3) From the left rail, select **Solutions**
 4) Select "Import Solution" 
