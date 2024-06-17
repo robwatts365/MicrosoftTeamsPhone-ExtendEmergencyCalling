@@ -47,7 +47,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
 2) Click the "+ New" button.  
     ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e5992819-a9a5-4944-9fe8-f7d453cf5376)
-3) Select "Blank List".
+3) Select "Blank List".  
    ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/009d7604-b870-4f02-9a45-a3be4b7723b7)
 4) Give your list an appropriate name (I'm using SiteList)
 5) Once created, click the gear in the top right hand corner, and select List settings.
