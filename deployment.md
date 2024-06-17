@@ -74,18 +74,23 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
    | [Managed Solution](ExtendEmergencyCallingNotifications_managed.zip) | If you're only looking to use the Core Solution. |
    | [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip) | If you're looking to tweek/extend the solution further. |  
 2) Nagivate to [Power Apps](https://make.powerapps.com/). Remember to sign in with the **Service Account** you created above. 
-3) From the left rail, select **Solutions**
-4) Select "Import Solution" 
-5) Click "Browse"
-6) Select the downloaded solution. 
-7) Click "Next"
-8) Click "Next" again. 
-9) Verify and sign in to the connectors. 
+3) From the left rail, select **Solutions**  
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/ad4c6f0d-34d0-435a-8a76-12c6ce6da6c8" width="200" />
+5) Select "Import Solution"  
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/75d374b7-a23a-4e32-bdbe-670b94ecd626" width="200" />
+7) Click "Browse"  
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/f63bb62e-08ae-4868-8417-11309ebadd12" width="200" />
+9) Select the downloaded solution. 
 10) Click "Next"
-11) For 'SPOSite', select the SharePoint site where your list resides. 
-12) For 'SPOList', select your list 
-13) For Site Prefix, enter the Prefix as detailed in the pre-requisites. 
-14) Click "Import".
+11) Click "Next" again. 
+12) Verify and sign in to the connectors.  
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/d3e8944d-9644-401c-9423-a2a581b11666" width="200" />
+14) Click "Next"
+15) For 'SPOSite', select the SharePoint site where your list resides. 
+16) For 'SPOList', select your list 
+17) For Site Prefix, enter the Prefix as detailed in the pre-requisites.  
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/3122a46c-ba75-499e-9144-cddbd596cc5c" width="200" />
+19) Click "Import".
 
 The Solution will now import and be ready to use. 
 
