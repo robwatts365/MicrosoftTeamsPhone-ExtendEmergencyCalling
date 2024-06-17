@@ -45,19 +45,20 @@ The first thing you'll need to decide is where to host the SharePoint list holdi
 For the purpose of this guide, I have created a new Team in Microsoft Teams called Emergency Notifications, and I will use this SharePoint site to host my SharePoint list.  
 
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
-2) Click the "+ New" button. 
-3) Select "Blank List".
-4) Give your list an appropriate name (I'm using SiteList)
-5) Once created, click the gear in the top right hand corner, and select List settings.
-6) Under Columns, select the "Title" column.
-7) Rename the column's name to "SiteRef".
-8) Toggle "Require that this column contains information" to Yes. 
-9) Toggle "	Enforce unique values" to Yes.
-10) Press OK in the bottom right corner of the window. 
-11) Click "Create column".
-12) Name the column "Email".
-13) Toggle "Require that this column contains information" to Yes. 
-14) Press OK in the bottom right corner of the window. 
+2) Click the "+ New" button.
+   ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e5992819-a9a5-4944-9fe8-f7d453cf5376)
+4) Select "Blank List".
+5) Give your list an appropriate name (I'm using SiteList)
+6) Once created, click the gear in the top right hand corner, and select List settings.
+7) Under Columns, select the "Title" column.
+8) Rename the column's name to "SiteRef".
+9) Toggle "Require that this column contains information" to Yes. 
+10) Toggle "	Enforce unique values" to Yes.
+11) Press OK in the bottom right corner of the window. 
+12) Click "Create column".
+13) Name the column "Email".
+14) Toggle "Require that this column contains information" to Yes. 
+15) Press OK in the bottom right corner of the window. 
     
 
 
