@@ -68,6 +68,27 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
     
 ### Deploying the Power App Solution
 
+1) Download the Solution export.
+      | Version | Notes |
+   | :--- | :--- |
+   | [Managed Solution](ExtendEmergencyCallingNotifications_managed.zip) | If you're only looking to use the Core Solution |
+   | [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip) | If you're looking to tweek/extend the solution further |  
+2) Nagivate to [Power Apps](https://make.powerapps.com/). Remember to sign in with the **Service Account** you created above. 
+3) From the left rail, select **Solutions**
+4) Select "Import Solution" 
+5) Click "Browse"
+6) Select the downloaded solution. 
+7) Click "Next"
+8) Click "Next" again. 
+9) Verify and sign in to the connectors. 
+10) Click "Next"
+11) For 'SPOSite', select the SharePoint site where your list resides. 
+12) For 'SPOList', select your list 
+13) For Site Prefix, enter the Prefix as detailed in the pre-requisites. 
+14) Click "Import".
+
+The Solution will now import and be ready to use. 
+
 ## Page info
 
 | Page | Deployment Guide |
