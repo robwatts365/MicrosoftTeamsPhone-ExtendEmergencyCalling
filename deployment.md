@@ -92,7 +92,17 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/3122a46c-ba75-499e-9144-cddbd596cc5c" width="200" />
 19) Click "Import".
 
-The Solution will now import and be ready to use. 
+Now that you've imported the solution, you need to set your Teams Emergency calling policy to send the notification to the **Service Account**, linked above. 
+
+To do this:
+1) Log in to the Teams Admin Center. 
+2) Navigate to **Voice > Emergency policies** on the left rail.
+3) Select the Global policy. 
+4) Under Emergency numbers, click "Add" 
+5) Change Notification mode to "Send notification only". 
+6) Search for your Service Account, click add. 
+7) Click "Apply". 
+ 
 
 ## Page info
 
