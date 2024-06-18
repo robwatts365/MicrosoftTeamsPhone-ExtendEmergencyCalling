@@ -100,7 +100,7 @@ To do this:
 1) Log in to the Teams Admin Center. 
 2) Navigate to **Voice > Emergency policies** on the left rail.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/b5b69baf-73d2-4a6b-8ad5-e647d271f4b3" width="200" />
-3) Select the Global policy.
+3) Select the Global policy.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/630d0ad5-8c48-406d-ba85-27480575af2e" width="200" />
 5) Under Emergency numbers, click "Add"
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/f86acfaf-fbc1-4bbc-ae31-adef2aa82c5f" width="200" />
