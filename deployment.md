@@ -102,12 +102,12 @@ To do this:
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/b5b69baf-73d2-4a6b-8ad5-e647d271f4b3" width="200" />
 3) Select the Global policy.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/630d0ad5-8c48-406d-ba85-27480575af2e" width="200" />
-5) Under Emergency numbers, click "Add"
+4) Under Emergency numbers, click "Add"  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/f86acfaf-fbc1-4bbc-ae31-adef2aa82c5f" width="200" />
-7) Change Notification mode to "Send notification only".
-8) Search for your Service Account, click add.
+5) Change Notification mode to "Send notification only".
+6) Search for your Service Account, click add.  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/a5db9c3c-fd7c-4273-b10d-d2e66d103b29" width="200" />
-11) Click "Apply".
+7) Click "Apply".  
     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/948692b6-8020-4491-bb13-25c66cbffb00" width="200" />
  
 
