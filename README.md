@@ -28,7 +28,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
   * Microsoft Exchange
   * SharePoint
 *	A SharePoint list (covered in the Deployment Guide 👇)
-*	Teams Communication Administrator or Teams Administrator role.
+*	Teams Communication Administrator, Teams Administrator role or Teams Telephony Administrator.
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
 
