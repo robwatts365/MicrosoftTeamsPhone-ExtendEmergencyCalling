@@ -13,7 +13,7 @@
   
 *	A SharePoint list (covered further down 👇)
 * A Power Platform environment with Dataverse enabled
-*	Teams Communication Administrator or Teams Administrator role.
+*	Teams Telephony Administrator, Teams Communication Administrator or Teams Administrator role.
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
   
