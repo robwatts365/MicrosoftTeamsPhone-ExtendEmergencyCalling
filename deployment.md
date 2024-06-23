@@ -20,7 +20,7 @@
 > [!NOTE]
   >  You should use a naming convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
   [PREFIX] [LOCATION IDENTIFIER] 
-  *(e.g. **CONTOSO** SOUTHAMPTON)* 
+  *(e.g. **LOCATION** SOUTHAMPTON)* 
 
 Find out more about the Network topology requirements [here](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
