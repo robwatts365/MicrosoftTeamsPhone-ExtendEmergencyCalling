@@ -33,11 +33,17 @@ If you choose to extend your Emergency Calling notifications beyond just email, 
 
 When extending further beyond the core solution, you can add more columns to the SharePoint list to hold different data for each site. 
 
-E.g. a mobile number for SMS.
+E.g. a mobile number for SMS.  
+<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/930cc38f-a131-48c8-8e95-66e521115900" width="200" />
 
-When making changes to the Power Automate Flow, open all conditions and Apply to each and place any extra action beneath the "Send an email (V2)" action.
 
-Select the column you created as the "To:" address, and it's best to use the SiteSearch variable for the content, as this has been converted to plain text. (You may see that an Apply to each action is created, don't panic! This is normal)
+When making changes to the Power Automate Flow, open all conditions and Apply to each and place any extra action beneath the "Send an email (V2)" action.  
+<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/e81e534f-a0bf-4dcf-a2fc-6067178ddb82" width="200" />
+
+
+Select the column you created as the "To:" address, and it's best to use the SiteSearch variable for the content, as this has been converted to plain text. (You may see that an Apply to each action is created, don't panic! This is normal)  
+<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/647d9206-184f-46d7-96a2-2cdc379e081d" width="200" />
+
 
 
  > [!NOTE]
