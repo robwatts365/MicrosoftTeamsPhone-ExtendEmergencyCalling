@@ -25,7 +25,11 @@ When creating Emergency Locations for this solution, it is important to add Plac
 
 It is also important to link your subnets, Wi-Fi access points, Switches and ports to the Places that you create. 
 
-There is benefits in doing it this way, as you'll be able to define different zones of a building (Civic Address) to make more specific locations, if your IP subnets are configured this way. 
+There is benefits in doing it this way, as you'll be able to define different zones of a building (Civic Address) to make more specific locations, if your IP subnets are configured this way.  
+
+<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/c7c70e6d-1c34-4c2c-97dc-517ac943f242" width="200" />  
+
+<img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/8403ca12-4caa-4c01-906a-6229209a1c77" width="200" />  
 
 
 
