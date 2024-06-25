@@ -13,14 +13,14 @@
   
 *	A SharePoint list (covered further down 👇)
 * A Power Platform environment with Dataverse enabled
-*	Teams Communication Administrator or Teams Administrator role.
+*	Teams Telephony Administrator, Teams Communication Administrator or Teams Administrator role.
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
   
 > [!NOTE]
   >  You should use a naming convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
   [PREFIX] [LOCATION IDENTIFIER] 
-  *(e.g. **CONTOSO** SOUTHAMPTON)* 
+  *(e.g. **LOCATION** SOUTHAMPTON)* 
 
 Find out more about the Network topology requirements [here](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
