@@ -29,9 +29,19 @@ If you choose to extend your Emergency Calling notifications beyond just email, 
 * An Azure Subscription
 * Azure Communication Services
 * 3rd Party Licenses
-  [Check the list of connectors available for Power Automate](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors) 
+  [Check the list of connectors available for Power Automate](https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors)  
+
+When extending further beyond the core solution, you can add more columns to the SharePoint list to hold different data for each site. 
+
+E.g. a mobile number for SMS.
+
+When making changes to the Power Automate Flow, open all conditions and Apply to each and place any extra action beneath the "Send an email (V2)" action.
+
+Select the column you created as the "To:" address, and it's best to use the SiteSearch variable for the content, as this has been converted to plain text. (You may see that an Apply to each action is created, don't panic! This is normal)
+
 
  > [!NOTE]
+  >  Be sure to use the [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip)  if you are looking to make changes to the solution.  
   >  If you choose to use Power Automate premium connectors, you'll need to license these too or use a      Pay-as-you-go Power Platform plan. 
   [More information about PAYG.](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-overview) 
 
