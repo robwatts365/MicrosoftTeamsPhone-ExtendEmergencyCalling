@@ -31,8 +31,6 @@ There is benefits in doing it this way, as you'll be able to define different zo
 
 <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/assets/65971102/8403ca12-4caa-4c01-906a-6229209a1c77" width="200" />  
 
-
-
 > [!NOTE]
   >  You should use a naming convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
   [PREFIX] [LOCATION IDENTIFIER] 
