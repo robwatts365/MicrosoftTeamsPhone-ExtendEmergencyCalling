@@ -17,10 +17,22 @@
 * Emergency Calling Policy
 * Network topology configured in Microsoft Teams
   
+
+
+### Emergency Locations:
+
+When creating Emergency Locations for this solution, it is important to add Places, instead of using the Civic Address, as you are able to change the names of these after initial creation. Once a Civic address is created, it is validated and can not be modified, only deleted. 
+
+It is also important to link your subnets, Wi-Fi access points, Switches and ports to the Places that you create. 
+
+There is benefits in doing it this way, as you'll be able to define different zones of a building (Civic Address) to make more specific locations, if your IP subnets are configured this way. 
+
+
+
 > [!NOTE]
   >  You should use a naming convention with a static prefix to ensure all locations are captured, with a single string denoting the different locations, like a site reference.
   [PREFIX] [LOCATION IDENTIFIER] 
-  *(e.g. **LOCATION** SOUTHAMPTON)* 
+  *(e.g. **Loc** SOUTHAMPTON)* 
 
 Find out more about the Network topology requirements [here](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
