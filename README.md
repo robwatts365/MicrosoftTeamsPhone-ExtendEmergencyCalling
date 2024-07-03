@@ -16,7 +16,7 @@ The core solution extends emergency notifications to email only, but you can twe
 * Network topology requirements - [link](https://learn.microsoft.com/en-US/microsoftteams/manage-your-network-topology)
 
 ## Support
-If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/robwatts365/ExtendEmergencyCalling/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
+If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
 
 Thank you for using this project and I hope you find it useful and helpful. 😊
 
