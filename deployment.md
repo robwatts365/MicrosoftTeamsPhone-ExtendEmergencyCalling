@@ -5,7 +5,7 @@
 
 ## 1. Pre-requisites
 ### Core Solution:
-* A **Service Account** with the an appropriate license for:
+* A **Service Account** with an appropriate license for:
   * Power Automate
   * Microsoft Teams
   * Microsoft Exchange

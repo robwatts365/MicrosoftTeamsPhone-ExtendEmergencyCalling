@@ -22,7 +22,7 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 
 ## Pre-requisites
 ### Core Solution:
-* A **Service Account** with the an appropriate license for:
+* A **Service Account** with an appropriate license for:
   * Power Automate
   * Microsoft Teams
   * Microsoft Exchange
