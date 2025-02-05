@@ -1,7 +1,7 @@
 # Deployment Guide
 
-| [Home](README.md) | [About](about.md) | [Deployment Guide](deployment.md) | [Support](support.md) | 
-| --- | --- | --- | --- |
+| [Home](README.md) | [About](about.md) | [Releases](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/releases)| [Deployment Guide](deployment.md) | [Support](support.md) |
+| --- | --- | --- | --- | --- |
 
 ## 1. Pre-requisites
 ### Core Solution:

@@ -1,7 +1,7 @@
 # Extend Emergency Calling with the Power Platform
 
-| [Home](README.md) | [About](about.md) |[Deployment Guide](deployment.md) | [Support](support.md) | 
-| --- | --- | --- | --- |
+| [Home](README.md) | [About](about.md) | [Releases](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/releases)| [Deployment Guide](deployment.md) | [Support](support.md) |
+| --- | --- | --- | --- | --- |
 
 ## Disclaimer
 > [!IMPORTANT]

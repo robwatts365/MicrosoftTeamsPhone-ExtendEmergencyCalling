@@ -1,7 +1,7 @@
 # Extend Emergency Calling with the Power Platform
 
-| [Home](README.md) | [About](about.md) | [Deployment Guide](deployment.md) | [Support](support.md) | 
-| --- | --- | --- | --- |
+| [Home](README.md) | [About](about.md) | [Releases](https://github.com/robwatts365/MicrosoftTeamsPhone-ExtendEmergencyCalling/releases)| [Deployment Guide](deployment.md) | [Support](support.md) |
+| --- | --- | --- | --- | --- |
 
 ## Background
 Emergency call notifications in Teams are a feature that allows administrators and users to receive alerts when someone in their organisation makes an emergency call using Teams Phone System. The notifications can help responders locate and assist the caller quickly and efficiently. Currently, this is limited to notifying a group of people in a group chat. 
